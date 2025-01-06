@@ -5,6 +5,7 @@ class UltraSuperCalculator:
         self.number_registers = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         self.history_registers = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         self.numbers_index = 1
+# Update 9
         self.history_index = 0
         self.temp_history_index = 0
         self.user_display = ''

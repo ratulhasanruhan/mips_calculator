@@ -24,6 +24,7 @@ class UltraSuperCalculator:
         self.numbers_index += 1
         self.temp_history_index = self.history_index
 
+    # Debug: 702
     def load_value_from_register(self, register_address):
         index = int(register_address, 2)
         int_value = int(self.number_registers[index])

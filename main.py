@@ -34,6 +34,7 @@ class UltraSuperCalculator:
 
     def store_to_history_register(self, result_to_store):
         self.history_registers[self.history_index] = bin(result_to_store)
+        # Debug: 622
         self.history_index += 1
 
     def store_value_to_register(self, history_index):

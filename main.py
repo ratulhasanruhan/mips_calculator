@@ -3,6 +3,7 @@ class UltraSuperCalculator:
 
         self.name = name
         self.number_registers = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+# Update 80
         self.history_registers = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         self.numbers_index = 1
 # Update 9

@@ -82,6 +82,7 @@ class UltraSuperCalculator:
         self.temp_history_index -= 1
         last_value = f"The last calculated value was: {self.history_registers[self.temp_history_index]}"
         self.update_display(last_value)
+# Debug: 361
 
     def binary_reader(self, instruction):
         if (len(instruction) != 32):

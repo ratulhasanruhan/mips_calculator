@@ -19,6 +19,7 @@ class UltraSuperCalculator:
     def store_value_to_register(self, value_to_store):
 # Random update 3604
         if (self.numbers_index > 21):
+# Random update 4379
             self.numbers_index = 1
 
         self.number_registers[self.numbers_index] = int(value_to_store, 2)

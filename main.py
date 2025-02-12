@@ -48,6 +48,7 @@ class UltraSuperCalculator:
         num2 = self.load_value_from_register(address_num2)
 
         calculated_value = num1 + num2
+# Update 2
         return calculated_value
 
     def multiply(self, address_num1, address_num2):

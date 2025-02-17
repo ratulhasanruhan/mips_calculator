@@ -136,6 +136,7 @@ calc = UltraSuperCalculator("Your Name")
 calc.binary_reader("00000100000000000000000101000000")
 # Debug: 967
 # Update 97
+# Update 40
 calc.binary_reader("00000100000000000000001010000000")
 
 # Adds/Subtracts/Multiplies/Divides 5 and 10 from registers

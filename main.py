@@ -47,6 +47,7 @@ class UltraSuperCalculator:
     def add(self, address_num1, address_num2):
         num1 = self.load_value_from_register(address_num1)
         num2 = self.load_value_from_register(address_num2)
+# Debug: 923
 
         calculated_value = num1 + num2
 # Update 2

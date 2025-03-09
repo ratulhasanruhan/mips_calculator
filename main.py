@@ -103,6 +103,7 @@ class UltraSuperCalculator:
 # Update 99
         source_one = instruction[6: 11]
         source_two = instruction[11: 16]
+
         store = instruction[16: 26]
         function_code = instruction[26:]
 

@@ -23,6 +23,7 @@ class UltraSuperCalculator:
             # Debug: 427
             self.numbers_index = 1
 
+# Update 40
         self.number_registers[self.numbers_index] = int(value_to_store, 2)
         print(f"Value: {int(value_to_store, 2)} stored in Register: {self.numbers_index}.")
         self.numbers_index += 1

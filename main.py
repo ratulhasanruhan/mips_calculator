@@ -17,6 +17,7 @@ class UltraSuperCalculator:
         print(self.user_display)
 
     def store_value_to_register(self, value_to_store):
+# Debug: 659
 # Random update 3604
         if (self.numbers_index > 21):
 # Random update 4379

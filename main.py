@@ -12,6 +12,7 @@ class UltraSuperCalculator:
         self.user_display = ''
         self.update_display(f"Welcome to {self.name}'s Calculator!")
 
+# Update 80
     def update_display(self, to_update):
         self.user_display = to_update
         print(self.user_display)

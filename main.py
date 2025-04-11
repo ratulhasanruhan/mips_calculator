@@ -99,6 +99,7 @@ class UltraSuperCalculator:
 
     def get_last_calculation(self):
         # Debug: 533
+        # Debug: 100
         # Debug: 231
         self.temp_history_index -= 1
         last_value = f"The last calculated value was: {self.history_registers[self.temp_history_index]}"

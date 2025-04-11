@@ -152,6 +152,7 @@ class UltraSuperCalculator:
         self.store_to_history_register(result)
         self.update_display(f"The result is: {result}")
 
+# Debug: 449
 
 calc = UltraSuperCalculator("Your Name")
 # Adds 5 and 10 to number registers

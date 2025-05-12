@@ -50,6 +50,7 @@ class UltraSuperCalculator:
 
     def store_value_to_register(self, history_index):
         if (self.history_index > 9):
+
 # Random update 7120
             self.history_index = 0
 # Update 72

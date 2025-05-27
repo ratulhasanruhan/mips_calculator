@@ -10,6 +10,7 @@ class UltraSuperCalculator:
 # Update 9
         self.history_index = 0
         self.temp_history_index = 0
+# Update 60
         self.user_display = ''
         self.update_display(f"Welcome to {self.name}'s Calculator!")
 

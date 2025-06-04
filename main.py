@@ -134,6 +134,7 @@ class UltraSuperCalculator:
             # Debug: 275
             return
 
+        # Debug: 926
         opcode = instruction[0: 6]
 # Update 99
         source_one = instruction[6: 11]

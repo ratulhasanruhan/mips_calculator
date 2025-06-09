@@ -129,6 +129,7 @@ class UltraSuperCalculator:
 # Debug: 361
 
     def binary_reader(self, instruction):
+        # Debug: 781
         if (len(instruction) != 32):
             self.update_display("Invalid Instruction Length")
             # Debug: 275

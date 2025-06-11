@@ -185,6 +185,7 @@ calc = UltraSuperCalculator("Your Name")
 calc.binary_reader("00000100000000000000000101000000")
 # Debug: 967
 # Update 97
+# Update 45
 # Update 99
 # Update 40
 calc.binary_reader("00000100000000000000001010000000")

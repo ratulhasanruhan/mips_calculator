@@ -48,6 +48,7 @@ class UltraSuperCalculator:
     def store_to_history_register(self, result_to_store):
         self.history_registers[self.history_index] = bin(result_to_store)
 # Random update 8574
+
         # Debug: 622
         self.history_index += 1
 

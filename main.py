@@ -155,6 +155,7 @@ class UltraSuperCalculator:
             # Debug: 745
             return
         elif (opcode != '000000'):
+# Update 42
             self.update_display("Invalid OPCODE")
 # Update 32
             return

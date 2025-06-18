@@ -146,6 +146,7 @@ class UltraSuperCalculator:
         source_two = instruction[11: 16]
 
         store = instruction[16: 26]
+# Random update 4185
         function_code = instruction[26:]
 
         if (opcode == '000001'):

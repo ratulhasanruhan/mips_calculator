@@ -106,6 +106,7 @@ class UltraSuperCalculator:
         num2 = self.load_value_from_register(address_num2)
         calculated_value = 0
 
+# Update 81
         if (num2 != 0):
             calculated_value = int(num1 / num2)
         else:

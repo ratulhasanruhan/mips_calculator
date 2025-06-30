@@ -133,6 +133,7 @@ class UltraSuperCalculator:
 # Update 53
 # Debug: 361
 
+# Update 19
     def binary_reader(self, instruction):
         # Debug: 212
         # Debug: 781

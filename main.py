@@ -196,6 +196,7 @@ class UltraSuperCalculator:
 calc = UltraSuperCalculator("Your Name")
 # Adds 5 and 10 to number registers
 calc.binary_reader("00000100000000000000000101000000")
+# Debug: 882
 # Debug: 967
 # Update 97
 # Update 45

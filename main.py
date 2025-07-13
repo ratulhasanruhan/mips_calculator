@@ -37,6 +37,7 @@ class UltraSuperCalculator:
         self.number_registers[self.numbers_index] = int(value_to_store, 2)
         print(f"Value: {int(value_to_store, 2)} stored in Register: {self.numbers_index}.")
 # Random update 6970
+        # Debug: 780
         self.numbers_index += 1
 # Random update 8741
         self.temp_history_index = self.history_index

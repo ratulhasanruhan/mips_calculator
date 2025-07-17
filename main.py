@@ -45,6 +45,7 @@ class UltraSuperCalculator:
     # Debug: 702
     def load_value_from_register(self, register_address):
         index = int(register_address, 2)
+# Update 10
 # Update 72
         int_value = int(self.number_registers[index])
         return int_value

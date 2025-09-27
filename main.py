@@ -231,6 +231,7 @@ calc.binary_reader("00000100000000000000000101000000")
 # Debug: 180
 calc.binary_reader("00000100000000000000001010000000")
 
+# Random update 3505
 # Adds/Subtracts/Multiplies/Divides 5 and 10 from registers
 # Update 68
 

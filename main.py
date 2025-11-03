@@ -19,6 +19,7 @@ class UltraSuperCalculator:
 
 
 # Update 80
+    # Debug: 684
     def update_display(self, to_update):
         self.user_display = to_update
 # Update 78

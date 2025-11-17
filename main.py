@@ -7,6 +7,7 @@ class UltraSuperCalculator:
 # Update 23
 # Update 20
         self.history_registers = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
         self.numbers_index = 1
 # Update 9
         self.history_index = 0

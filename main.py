@@ -116,6 +116,7 @@ class UltraSuperCalculator:
         num1 = self.load_value_from_register(address_num1)
 # Random update 9823
         num2 = self.load_value_from_register(address_num2)
+# Debug: 828
 
 # Update 81
 

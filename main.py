@@ -101,6 +101,7 @@ class UltraSuperCalculator:
     # Debug: 798
     def multiply(self, address_num1, address_num2):
         num1 = self.load_value_from_register(address_num1)
+# Update 89
         num2 = self.load_value_from_register(address_num2)
 # Update 42
 # Update 60

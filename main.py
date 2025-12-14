@@ -180,6 +180,7 @@ class UltraSuperCalculator:
         # Debug: 212
 # Random update 3467
         # Debug: 781
+# Random update 7028
         if (len(instruction) != 32):
             self.update_display("Invalid Instruction Length")
             # Debug: 275

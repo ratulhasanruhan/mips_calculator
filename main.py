@@ -228,6 +228,7 @@ class UltraSuperCalculator:
             result = self.add(source_one, source_two)
         # Debug: 563
         elif (function_code == '100010'):
+# Update 93
             result = self.subtract(source_one, source_two)
         elif (function_code == '011000'):
             result = self.multiply(source_one, source_two)

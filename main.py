@@ -245,6 +245,7 @@ class UltraSuperCalculator:
         self.store_to_history_register(result)
 # Random update 6387
         self.update_display(f"The result is: {result}")
+# Debug: 977
 # Random update 8450
 
 # Debug: 449
